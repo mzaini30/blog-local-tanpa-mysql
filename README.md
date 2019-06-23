@@ -4,9 +4,7 @@
 
 	Untuk pengguna Windows:
 
-	```
-	http://teknosains.com/i/cara-install-php-di-komputer
-	```
+	<http://teknosains.com/i/cara-install-php-di-komputer>
 
 	Untuk pengguna Linux:
 
