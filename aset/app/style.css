@@ -1,0 +1,25 @@
+img {
+	max-width: 100%;
+}
+
+.bukan-link,
+.bukan-link:hover,
+.bukan-link:active,
+.bukan-link:visited,
+.bukan-link:focus {
+	color: inherit;
+	text-decoration: none;
+}
+
+.teks-wrap {
+	white-space: pre-wrap;
+}
+
+.waktu:first-letter {
+	text-transform: uppercase;
+}
+
+.konten img {
+	display: block;
+	margin: auto;
+}
